@@ -1,0 +1,17 @@
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\bin\Debug\net9.0\BookStore.BL.deps.json
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\bin\Debug\net9.0\BookStore.BL.dll
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\bin\Debug\net9.0\BookStore.BL.pdb
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\bin\Debug\net9.0\BookStore.Core.dll
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\bin\Debug\net9.0\BookStore.DataAccess.dll
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\bin\Debug\net9.0\BookStore.Core.pdb
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\bin\Debug\net9.0\BookStore.DataAccess.pdb
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\BookStore.BL.csproj.AssemblyReference.cache
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\BookStore.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\BookStore.BL.AssemblyInfoInputs.cache
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\BookStore.BL.AssemblyInfo.cs
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\BookStore.BL.csproj.CoreCompileInputs.cache
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\BookStor.EB2E6063.Up2Date
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\BookStore.BL.dll
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\refint\BookStore.BL.dll
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\BookStore.BL.pdb
+D:\ABSOLUTEPOEBOTA\ConsoleTraining\WebApplication2\BookStore.BL\obj\Debug\net9.0\ref\BookStore.BL.dll
