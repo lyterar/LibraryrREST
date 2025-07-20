@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>BookStore.Core</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\BookStore.DataAccess\BookStore.DataAccess.csproj" />
+      <ProjectReference Include="..\WebApplication2\WebApplication2.csproj" />
+    </ItemGroup>
+
+</Project>
